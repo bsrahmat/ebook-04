@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-04/blob/main/EBook04_MQTT_Broker.pdf" target="_blank">EBook04_MQTT_Broker.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117618751" target="_blank">https://www.academia.edu/117618751</a>
 
 - <a href="" target="_blank"></a>
 
