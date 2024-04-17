@@ -27,7 +27,7 @@
 
 ### Bib-tex file to cite this book:
 
-- <a href="https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.bib" target="_blank">EBook03_DL.bib</a>
+- <a href="https://github.com/bsrahmat/ebook-04/blob/main/EBook04_MQTT_Broker.bib" target="_blank">EBook04_MQTT_Broker.bib</a>
 
 <br>
 
